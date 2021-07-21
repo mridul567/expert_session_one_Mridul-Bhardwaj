@@ -10,3 +10,12 @@
 2. We had taken the first 150 rows as the part of our dataset.
 3. We dropped the unwanted attributes such as url,report etc.
 4.  We made the id column as index.
+
+## Database Search:
+1. We had search the features of diamond on the basis of id.
+2. The id should be in integer otherwise it will not be accepted.
+
+## To run the code:
+1. Clone the repository of Github on your PC. 
+2. Run the Data Preparation file to view the dataset as well as to search the features of diamond.
+3. That's completed.
